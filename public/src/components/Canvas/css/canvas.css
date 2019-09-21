@@ -1,0 +1,10 @@
+.canvas-main {
+    height: 100vh;
+    width: 100vw;
+    background-color: grey;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
